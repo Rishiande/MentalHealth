@@ -1,0 +1,16 @@
+langchain
+torch
+accelerate
+#bitsandbytes
+transformers
+sentence_transformers
+langchain-community==0.0.10  # Replace with the version you need
+streamlit
+streamlit
+langchain-community
+requests
+streamlit_chat
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
