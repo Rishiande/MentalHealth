@@ -10,7 +10,7 @@ from langchain.memory import ConversationBufferMemory
 from streamlit_chat import message
 
 # Specify the PDF file path
-pdf_path = r'C:\Users\rishi\Desktop\Mental\mental_health_Document.pdf'
+pdf_path = 'mental_health_Document.pdf'
 
 # Initialize session state
 def initialize_session_state():
