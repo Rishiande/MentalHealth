@@ -4,7 +4,7 @@ import google.generativeai as genai
 from streamlit_chat import message
 
 # Set the Google API key
-os.environ['GOOGLE_API_KEY'] = "AIzaSyDKUpdDE-WBhOVFTdRTVYncxyG1MFCpUWs"
+os.environ['GOOGLE_API_KEY'] = "AIzaSyCWmWlwM4R3Otqp0Go51z9EVCNfEgWa2rM"
 genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
 
 # Title of the Streamlit app
