@@ -16,3 +16,5 @@ tiktoken
 huggingface-hub
 pypdf
 ctransformers
+langchain-google-genai
+google-generativeai
